@@ -78,6 +78,7 @@ body a{
 .image-bg-fluid-height {
 	background: url('../../images/bd02.jpg') no-repeat center center scroll;
     padding: 90px 0;
+    height: 400px;
 }
 
 .image-bg-fixed-height {
