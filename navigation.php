@@ -15,19 +15,19 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a href="#">Home</a>
+                    <a href="index.php">Home</a>
                 </li>
                 <li>
-                    <a href="#">About</a>
+                    <a href="about.php">About</a>
                 </li>
                 <li>
-                    <a href="#">Blood Tips</a>
+                    <a href="bloodtips.php">Blood Tips</a>
                 </li>
                 <li>
-                    <a href="#">Donation Centers</a>
+                    <a href="donationcenters.php">Donation Centers</a>
                 </li>
                 <li>
-                    <a href="#">Donor Benefits</a>
+                    <a href="donorbenefits.php">Donor Benefits</a>
                 </li>
                 <li>
                     <a href="#">Join Today</a>

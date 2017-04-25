@@ -56,8 +56,14 @@ body a{
     font-family: 'Overlock', cursive;
     font-weight: bolder;
 }
-
-
+.bdcolor{
+    background-color: rgba(213, 47, 47, 0.93);
+    border-color: #ddd;
+    color: #fff;
+}
+.bdgreen{
+    background-color: #51763c;
+}
 
 
 .image-bg-fluid-height,
@@ -70,17 +76,23 @@ body a{
 }
 
 .image-bg-fluid-height {
-	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
-    padding: 100px 0;
+	background: url('../../images/bd02.jpg') no-repeat center center scroll;
+    padding: 90px 0;
+    height: 400px;
 }
 
 .image-bg-fixed-height {
-	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
-    height: 450px;
+	background: url('../../images/bd02.jpg') no-repeat center center scroll ;
+    height: 150px;
+    object-fit: cover;
 }
 
 .img-center {
 	margin: 0 auto;
+}
+.bdh3{
+    color: #d1181e;
+    font-weight: bolder;
 }
 
 section {
@@ -114,3 +126,4 @@ footer {
         font-size: 2em;
     }
 }
+
